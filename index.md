@@ -6,7 +6,7 @@ title: Margaret Huggins
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.png" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I'm student athlete studying Mechanical Engineering at Cornell University. I'm a driven student looking for a chance to apply the skills and concepts I've learned in the classroom to expand my real-world experience. 
