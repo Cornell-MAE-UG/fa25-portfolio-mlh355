@@ -3,7 +3,7 @@ layout: project
 title: Engineering Design Process Project
 description: Keychain Umbrella
 technologies: CAD
-image: /assets/images/Keychain-Umbrella.png
+image: /assets/images/keychain-umbrella.jpg
 ---
 
 
