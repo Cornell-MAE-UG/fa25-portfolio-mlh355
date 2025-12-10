@@ -1,0 +1,11 @@
+---
+layout: project
+title: Torque Wrench Analysis 
+description: 
+technologies: Fusion 360 and Ansys
+image: /assets/images/torque-wrench.png
+
+
+---
+
+Take a look at my ANSYS analysis of a Torque Wrench: <a href="{{ "/here/" | 3270FinalHW.pdf  }}">my projects</a>

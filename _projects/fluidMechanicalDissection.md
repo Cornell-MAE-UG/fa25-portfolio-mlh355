@@ -3,7 +3,7 @@ layout: project
 title: Fluid Mechanical Dissection
 description: HUSQVARNA 122HD60 Hedge Trimmer
 technologies: n/a
-image: /assets/images/hedgeTrimmer.jpg
+image: /assets/images/hedgeTrimmer.png
 
 
 ---
