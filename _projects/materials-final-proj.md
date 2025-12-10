@@ -8,4 +8,4 @@ image: /assets/images/torque-wrench.png
 
 ---
 
-Take a look at my ANSYS analysis of a Torque Wrench [here]({{ "/assets/3270FinalHW.pdf" | relative_url }})
+Take a look at my ANSYS analysis of a Torque Wrench [here]({{ "3270FinalHW.pdf" | relative_url }})
