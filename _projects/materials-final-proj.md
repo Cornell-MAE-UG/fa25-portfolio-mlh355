@@ -8,4 +8,4 @@ image: /assets/images/torque-wrench.png
 
 ---
 
-Take a look at my ANSYS analysis of a Torque Wrench: <a href="{{ "/3270FinalHW/" | relative_url }}">here</a>
+Take a look at my ANSYS analysis of a Torque Wrench [here]({{ "/assets/3270FinalHW.pdf" | relative_url }})
