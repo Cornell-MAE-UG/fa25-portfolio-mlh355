@@ -2,7 +2,7 @@
 layout: project
 title: Torque Wrench Analysis 
 description: 
-technologies: Fusion 360 and Ansys
+technologies: Fusion 360 and ANSYS
 image: /assets/images/torque-wrench.png
 
 
