@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mechatronics Robot Compatition 
+title: Mechatronics Robot Competition 
 description: A class wide 1v1 robot cube collection 
 technologies: C++, ArdinoUno
 image: /assets/images/heatTransferPic.png
